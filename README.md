@@ -1,4 +1,4 @@
-<img aling="centre" alt="Code" width="500" src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png" >
+<img aling="centre" alt="Code" width="500" src="[https://outlane.co/wp-content/uploads/2017/10/avatar-2.pn](https://outlane.co/wp-content/uploads/2017/10/avatar-2.png)" >
 <h1 align="center">Hi 👋, I'm Bakary Gibba</h1>
 <h3 align="center">Bachelors in Computer Science and Specializing in Data Science and AI</h3>
 
