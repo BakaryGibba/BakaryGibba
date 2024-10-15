@@ -1,6 +1,6 @@
 <img src="https://r2.erweima.ai/imgcompressed/img/compressed_1ece74076a54359f75f5f6d1ccd8dfca.webp" alt="Code" width="500" style="float: centre;">
 <h1 align="center">Hi 👋, I'm Bakary Gibba</h1>
-<h3 align="center">Bachelors in Computer Science and Specializing in Data Science and AI</h3>
+<h3 align="center">Specializing in Data Science and AI Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakarygibba&label=Profile%20views&color=0e75b6&style=flat" alt="bakarygibba" /> </p>
 
