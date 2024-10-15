@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **AI Engineering**
 
-- 📫 How to reach me **bakarygibba055@gmail.com https://www.linkedin.com/in/bakary-gibba-6409bb248/**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/bakary-gibba-6409bb248/](https://www.linkedin.com/in/bakary-gibba-6409bb248/)
+- 📫 How to reach me **bakarygibba055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
