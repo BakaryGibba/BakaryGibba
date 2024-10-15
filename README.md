@@ -1,4 +1,4 @@
-<img aling="right" alt="Code" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" >
+<img aling="centre" alt="Code" width="600" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" >
 <h1 align="center">Hi 👋, I'm Bakary Gibba</h1>
 <h3 align="center">Bachelors in Computer Science and Specializing in Data Science and AI</h3>
 
